@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "EasyVoxelsMC",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/65b3c5917fed4252a44e66fe8af045a0"
+		},
+		{
+			"Name": "OpenWorldBakery",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/48c207649ff942bfbb458d7dbc1735d7"
+		},
+		{
+			"Name": "OWBEasyVoxel",
+			"Enabled": true
+		}
+	]
+}
